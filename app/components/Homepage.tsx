@@ -227,6 +227,7 @@ export default function Homepage() {
           <div className="flex items-center gap-3 text-white">
             <div className="flex h-12 w-12 items-center justify-center rounded-2xl border border-white/10 bg-white/5 shadow-[0_0_0_1px_rgba(255,255,255,0.05)] backdrop-blur-xl">
               <span className="text-lg font-semibold text-[#7DE5E5]">T</span>
+              <span className="text-lg font-semibold text-[#7DE5E5]">T</span>
             </div>
             <div>
               <p className="text-xs uppercase tracking-[0.3em] text-[#7DE5E5]/80">Teqto Infotech</p>
